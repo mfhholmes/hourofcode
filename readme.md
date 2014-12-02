@@ -1,4 +1,6 @@
 #Hour of Code
+
+Some example "hello world" programs in various languages
 ----
 
 To run the examples:
@@ -10,7 +12,7 @@ To compile to an executable: `go build -o hourofcode`
 
 then (on Linux) `chmod +x hourofcode`
 
-then: "./hourofcode -n whatever" to run
+then: ``./hourofcode -n whatever` to run
 
 ##Javascript
 you'll need to run `npm install stdio` first
