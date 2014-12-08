@@ -26,3 +26,7 @@ then run using `java -cp . hourofcode -n whatever`
 
 ##Python
 just `hourofcode.py -n whatever`
+
+##Ruby
+again just `hourofcode.rb whatever`
+
